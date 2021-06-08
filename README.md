@@ -1,4 +1,4 @@
-# TicTacToeAI
+# TicTacToe AI
 
 This version of TicTacToe puts the player against an unbeatable AI that uses the minimax algorithm. The best possible outcome for the human player is a draw.
 
