@@ -5,5 +5,5 @@ This version of TicTacToe puts the player against an unbeatable AI that uses the
 Currently, it is only a CLI but there are plans to convert it into a GUI using wxWidgets hopefully soon.
 
 ***Future Updates***
-1. GUI
-2. AI vs AI Mode
+- [x] [GUI](https://github.com/RyanB1/TicTacToeAIGUI)
+- [ ] AI vs AI Mode
